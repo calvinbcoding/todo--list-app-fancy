@@ -21,7 +21,7 @@
 }
 
 .Todo.completed .Todo-task {
-  /* opacity: 0.6; */
+   opacity: 0.6; 
 }
 .Todo.completed .Todo-task:before {
   content: "";
@@ -52,7 +52,7 @@
   font-size: 1em;
   margin: 0.4em;
   background: none;
-  -webkit-appearance: none;
+  -webkit-appearance: none; 
   cursor: pointer;
   color: #fff;
 }
